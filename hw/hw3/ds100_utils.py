@@ -5,7 +5,7 @@ import requests
 import sqlite3
 import pandas as pd
 
-DB_PATH = '/home/jovyan/shared/hw3_data/.small-imdb.db'
+DB_PATH = r'C:\Users\Mark\Documents\Mark\School\University of California, Berkeley\Courses\CS C200A Principles & Techniques of Data Science\shared\hw3_data\.small-imdb.db'
 db = sqlite3.connect(DB_PATH)
 
 def run_sql(query, limit=1000):
