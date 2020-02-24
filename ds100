@@ -1,0 +1,2 @@
+conda activate ds100
+jupyter lab
