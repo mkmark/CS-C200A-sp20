@@ -1,2 +1,2 @@
 conda activate ds100
-jupyter lab
+jupyter notebook & jupyter lab
