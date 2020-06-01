@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 .DS_Store
 .ipynb_checkpoints
 __pycache__
-=======
+*.mp4
 **/.ipynb_checkpoints
 **/__pycache__
 **/.ok_messages
 **/.ok_storage.bak
 **/.ok_storage.dat
 **/.ok_storage.dir
->>>>>>> 688a5b8... 202002081819 Progress imported
